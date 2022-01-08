@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <style>
+        h1 {
+            font-weight:bold, 2em, sans                 -serif;
+            text-align:center;
+            background-color:rgb(16, 230, 219);
+            color: rgb(104, 12, 209);
+        }
+        h3{
+            background-color:rgb(167, 230, 232);
+            color: rgb(6, 26, 77);
+        }
+        p{
+            font-weight:italic, .5em, sans-serif;
+            color: rgb(9, 161, 123);
+        }
+        #Posttitle {
+            color:rgb(227, 29, 227);
+        }
+        .info {
+                background: rgb(219, 235, 255);
+                width:70%;
+                height:200px;
+                overflow:auto;
+            }
+            .pic {
+                width:70%;
+            }
+        
+    </style>
+        <body>
+        
+        <h1>Jeana's blog</h1>
+        
+        <img src="https://www.kasandbox.org/programming-images/animals/butterfly.png"width="292">
+        <h3>Contents</h3>
+        <ul>
+            <li><a href="#Posttitle">First post!</a></li>
+            <li><a href="#post2">Second Post</a></li>
+            <li><a href="#post3">Third Post</a></li>
+        </ul>
+<!--Need a new color for the post titles -->        
+        <h2 id="#Posttitle">First post</h2>
+        <h6>Posted on 10/15/2020</h6>
+        
+        <p>Something excited happened. I learned how to code HTML and CSS! Hello future! Just been working 10 hour days through the pandemic. With a busy first grader doing school from home right next to me. </p>
+        
+         <h2 id="#post2">Second Post</h2>
+        <h6>Posted on 10/16/2020</h6>
+   
+        <p>Yesterday I learned how to make tables and links to articles so check this out. My little cookbook!</P>
+        
+         <h1>Jeana's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#Macaroni and Cheese">Macaroni and Cheese</a></li>
+            <li><a href="#Sammich">Sammich</a></li>
+            
+            
+            
+            <li><a href="#Ranchrolls">Ranch Rolls</a></li>
+            
+        </ol>
+        
+        <h2 id="Macaroni and Cheese">Macaroni and Cheese</h2>
+        
+        <ul>
+            <li>Time: 20 Mins</li>
+            <li>Serves: 4 to 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <td>Ellbow Macaroni<br>Shredded Cheese<br>Milk<br                  >Butter</td>
+                <td>2 Cups dry<br>2 Cups<br>1/4 Cup<br>2 tbsp</td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Boil the macaroni in at least 1/2 gallon pot full most of the way with water. Add salt if desired. Cook time approx. 8 minutes. Strain (optional)
+</p>
+<p><strong>Step 2:</strong> Add the cooked macaroni back to the pot, add milk, cheese, and butter and mix until everything is melted and even.
+</p>        
+    <p><em>Source: <a href="Jeana's Memory">AllJeanasRecipes.com/macaroniandcheese</a></em></p>
+
+
+<h2 id="Sammich">Sammich</h2>
+        
+        <ul>
+            <li>Time: 5 Mins</li>
+            <li>Serves: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <td>Bread<br>Sliced Cheese<br>Sliced Turkey<br                     >butter/mayo</td>
+                <td>4 slices<br>2 slices<br>6 slices<br>optional</td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Toast the bread very lightly
+            
+        </p>
+<p><strong>Step 2:</strong> Spread buttor or mayo on inside of one slice for each sammich. Then stack a cheese slice, then stack the turkey slices. Finally place the remaining toasted bread on top. Secure with a toothpick.
+</p>        
+    <p><em>Source: <a href="Jeana's Memory">AllJeanasRecipes.com/Sammich</a></em></p>    
+    
+<h3 id="Ranchrolls">Ranch Rolls</h3>
+        
+        <ul>
+            <li>Time: 20 Mins</li>
+            <li>Serves: 6 to 8</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <td>Canned Bisquits<br>Butter<br>dry ranch mix</td>
+                <td>1 can<br>2 sticks<br>1 single serving packet                  </td>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Cut bisquits into quarters.           Preheat oven to 350 degrees.
+    </p>
+        <p><strong>Step 2:</strong> Melt both sticks of butter in         a round cake pan. Mix in the dry ranch mix until even.
+    </p>
+        <p><strong>Step 2:</strong> roll each piece of bisquit in         the butter, all sides should be coated. Then place all            pieces side by side, no spaces needed.
+    </p>
+        <p><strong>Step 1:</strong> Bake for 12 to 15 minutes or until golden brown on top.
+    </p>
+    
+    <p><em>Source: <a href="Jeana's Memory">AllJeanasRecipes.com/RanchRolls</a></em></p>
+        
+        <!--Third post some boxing to save space for the user.-->
+        <h2 id="#post3">Third post</h2>
+        <h6>Posted on 10/15/2020</h6>
+        
+        <p>Here I can show you how to box wordy text sections. and the images are looking prettier. </p>
+        
+            <h1>The ocean</h1>
+        
+        <img class="pic" src="https://www.kasandbox.org/programming-images/landscapes/beach-in-hawaii.png" alt="Photo of rocky ocean beach in Hawaii">
+        
+        <div class="info">
+            <p>The <strong>ocean</strong> is the connected body of salty water that covers 70.8% of the Earth's surface. The sea moderates the Earth's climate and has important roles in the water cycle, carbon cycle, and nitrogen cycle. Although the sea has been travelled and explored since prehistory, the modern scientific study of the sea—oceanography—dates broadly to the British Challenger expedition of the 1870s. The sea is conventionally divided into four or five large sections, such as the Pacific, called oceans while smaller sections, such as the Mediterranean, are known as seas.
+            </p>
+            <p>
+    Owing to the present state of continental drift, the Northern Hemisphere is now fairly equally divided between land and sea (a ratio of about 2:3) but the South is overwhelmingly oceanic (1:4.7). Salinity in the open ocean is generally in a narrow band around 3.5% by mass, although this can vary in more landlocked waters, near the mouths of large rivers, or at great depths. About 85% of the solids in the open sea are sodium and chloride. Deep-sea currents are produced by differences in salinity and temperature. Surface currents are formed by the friction of waves produced by the wind and by tides, the changes in local sea level produced by the gravity of the Moon and Sun. The direction of all of these is governed by surface and submarine land masses and by the rotation of the Earth (the Coriolis effect).
+            </p>
+            
+            <a href="http://en.wikipedia.org/wiki/Sea">Read more on Wikipedia</a>
+        </div>
+        
+    </body>
+</html>

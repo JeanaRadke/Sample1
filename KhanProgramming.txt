@@ -1,0 +1,87 @@
+
+Computing
+Computer programming
+
+Intro to JS: Drawing & Animation
+Intro to programming: Intro to JS: Drawing & Animation
+Drawing basics: Intro to JS: Drawing & Animation
+Coloring: Intro to JS: Drawing & Animation
+Variables: Intro to JS: Drawing & Animation
+Animation basics: Intro to JS: Drawing & Animation
+Interactive programs: Intro to JS: Drawing & Animation
+Becoming a community coder: Intro to JS: Drawing & Animation
+Bonus: Resizing with variables: Intro to JS: Drawing & Animation
+Text and strings: Intro to JS: Drawing & Animation
+Functions: Intro to JS: Drawing & Animation
+Logic and if Statements: Intro to JS: Drawing & Animation
+Debugging programs: Intro to JS: Drawing & Animation
+Looping: Intro to JS: Drawing & Animation
+Writing clean code: Intro to JS: Drawing & Animation
+Arrays: Intro to JS: Drawing & Animation
+Objects: Intro to JS: Drawing & Animation
+Object-Oriented Design: Intro to JS: Drawing & Animation
+Becoming a better programmer: Intro to JS: Drawing & Animation
+
+Intro to HTML/CSS: Making webpages
+Intro to HTML: Intro to HTML/CSS: Making webpages
+Intro to CSS: Intro to HTML/CSS: Making webpages
+More HTML tags: Intro to HTML/CSS: Making webpages
+CSS text properties: Intro to HTML/CSS: Making webpages
+Web development tools: Intro to HTML/CSS: Making webpages
+CSS layout: Intro to HTML/CSS: Making webpages
+More CSS selectors: Intro to HTML/CSS: Making webpages
+Other ways to embed CSS: Intro to HTML/CSS: Making webpages
+Further learning: Intro to HTML/CSS: Making webpages
+
+Intro to SQL: Querying and managing data
+SQL basics: Intro to SQL: Querying and managing data
+More advanced SQL queries: Intro to SQL: Querying and managing data
+Relational queries in SQL: Intro to SQL: Querying and managing data
+Modifying databases with SQL: Intro to SQL: Querying and managing data
+Further learning in SQL: Intro to SQL: Querying and managing data
+
+Advanced JS: Games & Visualizations
+Intro to Games & Visualizations: Advanced JS: Games & Visualizations
+Scene management: Advanced JS: Games & Visualizations
+Buttons: Advanced JS: Games & Visualizations
+Making a side scroller: Hoppy Beaver: Advanced JS: Games & Visualizations
+Making a memory game: Advanced JS: Games & Visualizations
+Transformations: Advanced JS: Games & Visualizations
+3D shapes: Advanced JS: Games & Visualizations
+Advanced development tools: Advanced JS: Games & Visualizations
+
+Advanced JS: Natural Simulations
+Intro to Natural Simulations: Advanced JS: Natural Simulations
+Randomness: Advanced JS: Natural Simulations
+Noise: Advanced JS: Natural Simulations
+Vectors: Advanced JS: Natural Simulations
+Forces: Advanced JS: Natural Simulations
+Angular Movement: Advanced JS: Natural Simulations
+Oscillations: Advanced JS: Natural Simulations
+Particle Systems: Advanced JS: Natural Simulations
+
+HTML/JS: Making webpages interactive
+Get ready to make your webpages interactive: HTML/JS: Making webpages interactive
+JS and the DOM: HTML/JS: Making webpages interactive
+DOM access methods: HTML/JS: Making webpages interactive
+DOM modification: HTML/JS: Making webpages interactive
+DOM events: HTML/JS: Making webpages interactive
+DOM animation: HTML/JS: Making webpages interactive
+Using JS libraries in your webpage: HTML/JS: Making webpages interactive
+Further learning: HTML/JS: Making webpages interactive
+
+HTML/JS: Making webpages interactive with jQuery
+Welcome to jQuery: HTML/JS: Making webpages interactive with jQuery
+DOM access with jQuery: HTML/JS: Making webpages interactive with jQuery
+DOM modification with jQuery: HTML/JS: Making webpages interactive with jQuery
+jQuery techniques: HTML/JS: Making webpages interactive with jQuery
+DOM events with jQuery: HTML/JS: Making webpages interactive with jQuery
+Form processing with jQuery: HTML/JS: Making webpages interactive with jQuery
+DOM animation & effects with jQuery: HTML/JS: Making webpages interactive with jQuery
+Further learning: HTML/JS: Making webpages interactive with jQuery
+
+Meet the professional
+Meet the professional: Meet the professional
+Create a new program
+
+

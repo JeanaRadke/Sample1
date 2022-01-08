@@ -1,0 +1,56 @@
+Computing
+Computers and the Internet
+3,800 / 4,500 (84%)
+Mastery points
+
+
+Digital information
+860/1000 Mastery points
+Bits and bytes: Digital information
+Binary numbers: Digital information
+Hexadecimal numbers: Digital information
+Limitations of storing numbers: Digital information
+Storing text in binary: Digital information
+Converting analog data to binary: Digital information
+Data compression: Digital information
+Digital copyright and licenses: Digital information
+
+Computers
+330/500 Mastery points
+Introducing computers: Computers
+From electricity to bits: Computers
+Logic gates and circuits: Computers
+Computer components: Computers
+Computer files: Computers
+
+The Internet
+1240/1500 Mastery points
+Introducing the Internet: The Internet
+Connecting networks: The Internet
+Addressing the Internet: The Internet
+Routing with redundancy: The Internet
+Transporting packets: The Internet
+Web protocols: The Internet
+Scalable systems: The Internet
+The Internet protocol suite: The Internet
+Developing open protocols: The Internet
+The digital divide: The Internet
+
+Online data security
+1160/1200 Mastery points
+Introduction to online data security: Online data security
+PII (Personally identifiable information): Online data security
+User data tracking: Online data security
+Cyber attacks: Online data security
+Data encryption techniques: Online data security
+Secure Internet protocols: Online data security
+User authentication methods: Online data security
+
+Computing innovations
+210/300 Mastery points
+Communication innovations: Computing innovations
+Collaboration innovations: Computing innovations
+Crowdsourcing innovations: Computing innovations
+Monitoring innovations: Computing innovations
+Course challenge: 60% a year ago
+Nice work completing the Course challenge! Try again to see if you can improve your score.

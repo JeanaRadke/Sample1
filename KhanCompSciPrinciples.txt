@@ -1,0 +1,90 @@
+Computing
+AP®︎/College Computer Science Principles
+
+4,010 / 6,300 (64%)
+Mastery points
+
+
+Digital information
+810/900 Mastery points
+Bits and bytes: Digital information
+Binary numbers: Digital information
+Limitations of storing numbers: Digital information
+Storing text in binary: Digital information
+Converting analog data to binary: Digital information
+Lossless data compression: Digital information
+Lossy data compression: Digital information
+Digital copyright and licenses: Digital information
+
+The Internet
+1000/1100 Mastery points
+Introducing the Internet: The Internet
+Connecting networks: The Internet
+Addressing the Internet: The Internet
+Routing with redundancy: The Internet
+Transporting packets: The Internet
+Web protocols: The Internet
+Scalable systems: The Internet
+The Internet protocol suite: The Internet
+Open protocol development: The Internet
+The digital divide: The Internet
+
+Up next for you:
+Programming
+980/1600 Mastery points
+What is programming?: Programming
+Variables: Programming
+Math: Programming
+Strings: Programming
+Conditionals: Programming
+Logical equivalence: Programming
+Procedures: Programming
+Repetition: Programming
+Lists: Programming
+
+Algorithms
+50/800 Mastery points
+Building algorithms: Algorithms
+Evaluating algorithms: Algorithms
+Solving hard problems: Algorithms
+Parallel and distributed computing: Algorithms
+
+Data analysis
+0/400 Mastery points
+Data tools: Data analysis
+Big data: Data analysis
+Bias in machine learning: Data analysis
+
+Simulations
+100/300 Mastery points
+Exploring simulations: Simulations
+Simulating randomness: Simulations
+Creating simulations: Simulations
+
+Online data security
+860/900 Mastery points
+Introduction to online data security: Online data security
+PII (Personally identifiable information): Online data security
+User data tracking: Online data security
+Cyber attacks: Online data security
+Data encryption techniques: Online data security
+Secure Internet protocols: Online data security
+User authentication methods: Online data security
+
+Computing innovations
+210/300 Mastery points
+Communication innovations: Computing innovations
+Collaboration innovations: Computing innovations
+Crowdsourcing innovations: Computing innovations
+Monitoring innovations: Computing innovations
+
+Exam preparation
+Mastery unavailable
+Prepare for the AP Computer Science Principles exam: Exam preparation
+Learn AP CSP exam pseudocode: Exam preparation
+Practice passage-based questions: Exam preparation
+
+AP®︎ CSP standards mappings
+Mastery unavailable
+See how our content aligns with AP®︎ CSP standards: AP®︎ CSP standards mappings
+See how our content aligns with endorsed AP CSP curricula: AP®︎ CSP standards mappings
